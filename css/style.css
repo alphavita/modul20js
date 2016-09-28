@@ -1,0 +1,45 @@
+.wrapper {
+	padding: 30px;
+	font-family: Arial;
+	background-color: #add8e6;
+}
+.skills,
+.name_friends,
+.name,
+.balance,
+.registred {
+	float: left;
+	width:30%;
+	margin-left: 30px;
+	height: 600px;
+
+
+}
+.skills h3,
+.name_friends h3,
+.name h3,
+.balance h3,
+.registred h3{
+	font-size: 20px;
+	margin-bottom: 10px;
+	height: 100px;
+	text-align: center;
+	background-color: #e6e6fa;
+	padding: 10px;
+}
+.skills span,
+.name_friends span,
+.name span,
+.balance span,
+.registred span {
+	display:  block;
+	/*width: 150px;*/
+
+}
+.skills p ,
+.name_friends p ,
+.name p ,
+.balance p ,
+.registred p {
+	margin-bottom: 10px;
+}
